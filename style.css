@@ -1,0 +1,16 @@
+/* İsteğe bağlı, tablo düzenini özelleştirebilirsiniz */
+table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td {
+    border: 1px solid #ccc;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  span {
+    font-weight: bold;
+  }
+  
