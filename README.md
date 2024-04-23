@@ -1,6 +1,6 @@
-#ENGLISH/TĞRKÇE
+# ENGLISH/TÜRKÇE
 
-# Feydas Invoice Automation
+## Feydas Invoice Automation
 
 This project is a web application developed using frontend languages such as HTML, CSS, Bootstrap, and JavaScript, along with PHP backend. The aim of the project is to enable Feydas company to perform invoice processes online and quickly, optimizing business processes. It is designed to increase business efficiency and reduce time losses.
 
@@ -22,7 +22,7 @@ You can follow these steps to run the project:
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# Feydas Fatura Otomasyonu
+## Feydas Fatura Otomasyonu
 
 Bu proje, HTML, CSS, Bootstrap ve JavaScript gibi frontend dillerinin yanı sıra PHP backend'i kullanılarak geliştirilmiş bir web uygulamasıdır. Proje, Feydas şirketinin manuel olarak fatura işlemlerini online ve hızlı bir şekilde gerçekleştirmesini sağlayarak iş süreçlerini optimize etmeyi hedefler.Bu proje, Feydas şirketinin manuel fatura işlemlerini online ve hızlı bir şekilde gerçekleştirmesini sağlayarak iş süreçlerini optimize etmeyi amaçlamaktadır.
 İşletmenin verimliliğini artırmak ve zaman kayıplarını azaltmak için tasarlanmıştır.
